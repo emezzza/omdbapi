@@ -1,4 +1,9 @@
 <?php
+/**
+ * Omdbapi Server
+ * @since 1.0
+ * @author Erick Meza (emezzza@icloud.com)
+ */
 
 // OMDb API
 include_once('omdbapi.php');
